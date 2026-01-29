@@ -19,4 +19,4 @@ I've written this app in native iOS and native Android. Both platforms demonstra
 
 ## Resume
 
-My resume is available [here](Costa Walcott Resume 2026.pdf).
+My resume is available [here](/Costa%20Walcott%20Resume%202026.pdf).
